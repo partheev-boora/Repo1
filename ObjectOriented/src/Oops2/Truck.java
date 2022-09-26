@@ -10,4 +10,9 @@ public class Truck extends Vehicle{
 		// TODO Auto-generated method stub
 		return 0;
 	}
+	@Override
+	void cancelorder() {
+		// TODO Auto-generated method stub
+		
+	}
 }
