@@ -1,6 +1,6 @@
 package Oops2;
 
 public abstract class Vehicle {
-    float fare;
+    int fare;
     abstract float charge();
 }

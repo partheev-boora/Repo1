@@ -3,7 +3,7 @@ package Oops2;
 public class Bike extends Vehicle{
 
 	@Override
-	float charge() {
+	int charge() {
 		// TODO Auto-generated method stub
 		return 0;
 	}
