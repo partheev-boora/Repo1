@@ -1,4 +1,4 @@
-package practice;
+package Practice;
 
 class Helper {
 	 //static keyword permits methods at class level: it is sharable across different classes
