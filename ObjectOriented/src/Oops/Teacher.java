@@ -1,5 +1,5 @@
 package Oops;
 
-public class Teacher {
+public class Teacher extends School {
 
 }
