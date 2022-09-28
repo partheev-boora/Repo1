@@ -6,4 +6,5 @@ interface TestInterface3
     {
         System.out.println("Default TestInterface3");
     }
+    
 }

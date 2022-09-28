@@ -5,5 +5,7 @@ public class Square extends Area{
     public static void main(String a[]) {
     	Square s=new Square();
     	s.area();
+
     }
 }
+

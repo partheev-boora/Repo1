@@ -18,4 +18,5 @@ class DeviceSpecs{
 		s.Device(8.1f);
 		s.Device(8000);
 	}
+	
 }
