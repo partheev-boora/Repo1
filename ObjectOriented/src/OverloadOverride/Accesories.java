@@ -5,10 +5,10 @@ public class Accesories {
 		System.out.println(name);
 	}
 	void Device(int price) {
-		System.out.println("price is ",price);
+		System.out.println("price is "+price);
 	}
 	void Device(float version) {
-		System.out.println("the version ",version);
+		System.out.println("the version "+version);
 	}
 }
 class DeviceSpecs{
