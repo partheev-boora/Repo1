@@ -1,5 +1,5 @@
 package com.kpi.animals;
 
-public class Herbivorous {
+public class Herbivorous extends Object{
 
 }
