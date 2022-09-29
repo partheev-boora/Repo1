@@ -13,6 +13,7 @@ class Helper {
     }
     
     
+    
     // Method 2
     // With same name but with 2 double parameters
     //23.45

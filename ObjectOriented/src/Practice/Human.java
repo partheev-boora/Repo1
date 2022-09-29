@@ -14,4 +14,5 @@ public class Human implements Friends,Family{
 		return 0;
 	}
     
+	
 }

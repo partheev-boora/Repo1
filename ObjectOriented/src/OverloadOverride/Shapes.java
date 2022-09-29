@@ -14,6 +14,7 @@ class Square extends Draw{
 		System.out.println("Square");
 	}
 	
+	
 }
 
 public class Shapes {

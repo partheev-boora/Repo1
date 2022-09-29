@@ -20,4 +20,5 @@ class Test extends Parent {
 		a = new subclass1();//child class1
 		a.Print();
 	}
+	
 }

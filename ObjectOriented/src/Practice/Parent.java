@@ -15,6 +15,7 @@ class Parent {
 	}
 }
 
+
 //Class 2
 //Helper class
 class subclass1 extends Parent {
