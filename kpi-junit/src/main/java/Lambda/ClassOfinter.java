@@ -12,7 +12,7 @@ public class ClassOfinter implements Inter{
 		l.add("Partheev");
 		l.add(8.9);
 		l.add(true);
-		forEach(l->ci.print(l));
+		//forEach(l->ci.print(l));
 	}
 	@Override
 	public void print() {
